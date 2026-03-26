@@ -5,7 +5,7 @@ const experiences = [
   {
     role: 'Security Consultant',
     company: 'LRQA',
-    period: 'Mar 2025 – Present',
+    period: 'Mar 2026 – Present',
     location: 'Birmingham, UK',
     color: 'lavender',
     bullets: [
@@ -18,7 +18,7 @@ const experiences = [
   {
     role: 'Associate Security Consultant',
     company: 'LRQA',
-    period: 'Sep 2024 – Mar 2025',
+    period: 'Sep 2024 – Mar 2026',
     location: 'Birmingham, UK',
     color: 'mint',
     bullets: [
@@ -56,11 +56,12 @@ const experiences = [
 
 const certs = [
   { name: 'OSCP', full: 'OffSec Certified Professional', color: 'lavender' },
-  { name: 'AZ-900', full: 'Microsoft Azure Fundamentals', color: 'mint' },
-  { name: 'SC-900', full: 'Microsoft Security, Compliance & Identity', color: 'pink' },
-  { name: 'LPI Linux Essentials', full: 'Linux Professional Institute', color: 'peach' },
-  { name: 'MTA: Python', full: 'Introduction to Programming Using Python', color: 'lavender' },
-  { name: 'MTA: Security', full: 'MTA Security Fundamentals', color: 'mint' },
+  { name: 'OSCP+', full: 'OffSec Certified Professional', color: 'mint' },
+  { name: 'AZ-900', full: 'Microsoft Azure Fundamentals', color: 'pink' },
+  { name: 'SC-900', full: 'Microsoft Security, Compliance & Identity', color: 'peach' },
+  { name: 'LPI Linux Essentials', full: 'Linux Professional Institute', color: 'lavender' },
+  { name: 'MTA: Python', full: 'Introduction to Programming Using Python', color: 'mint' },
+  { name: 'MTA: Security', full: 'MTA Security Fundamentals', color: 'pink' },
 ]
 
 export default function Experience() {
