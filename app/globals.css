@@ -135,3 +135,7 @@ body::before {
 .card-hover:hover {
   transform: translateY(-3px);
 }
+
+body {
+  cursor: url('/cursors/xp-arrow.cur'), auto;
+}
